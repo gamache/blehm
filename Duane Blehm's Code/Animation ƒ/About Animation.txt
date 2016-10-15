@@ -1,0 +1,24 @@
+About the Animation Demo files:
+{note: TML is now shipping version 2.5 of their Pascal, believe it is
+free to version 2.0 owners.  Fixes some stuff for the new System.  We
+didn't have any trouble with 2.0 until we moved up to System 4.1.  The
+package includes 'Edit' version 2.1.  'Edit' is also available from APDA..see
+the MoreInfo.sit files.
+**note: Watch out for the new print stuff and systems before 4.1!}
+
+'Animation Steps' is a 'FullPaint' document that illustrates the steps
+in getting graphics from a Paint program to animation on the screen...
+document can be opened from most Paint type programs.
+
+'Animation.Pas' is an 'Edit' text file containing pascal source
+code to be compiled by the Pascal compiler.
+
+'Anim.R' is an 'Edit' text file containing RMaker source code to
+be compiled by RMaker.
+
+'Anim/Rsrc' is a resource document containing resources built with
+ResEdit, the resource editor.  These resources are 'included' when
+Anim.R is compiled by RMaker.
+
+'Animation' is our application... the result of Link.
+

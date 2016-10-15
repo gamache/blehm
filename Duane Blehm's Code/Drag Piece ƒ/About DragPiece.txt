@@ -1,0 +1,14 @@
+About the DragPieceDemo files....
+
+'DragPieceDemo.pas' is an 'Edit' text file containing sourcecode for our 
+'almost generic' DragPiece() procedure used in a simple example program.
+
+'aDragPiece.rsrc' is a resource file which is linked to the Demo code.
+
+'DragPieceDemo' is the application file.
+
+'DragPiece animation' is a paint-type file that illustrates what's happening.
+
+We're including this Demo with 'ZeroGravity' because it illustrates the same
+principle of animation over backgrounds with some improvements, refinements,
+etc.  We make extensive use of this procedure in our new 'PUZZ'L' application.
