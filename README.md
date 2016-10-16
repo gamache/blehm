@@ -15,7 +15,7 @@ stuffed a few bills and a note into an envelope, and mailed it off.
 
 I received a reply about a year later.  It was from Blehm's parents,
 gently explaining that their son had passed away and they couldn't offer
-the unlock codes.  They returned my money.  I was too young and lucky to
+the source code.  They returned my money.  I was too young and lucky to
 have much experience with death.  When I read the news, I remember
 feeling a pang of... something.  I never forgot this feeling, and I
 never forgot about the source code.
@@ -79,6 +79,7 @@ Rest in peace, Duane Blehm.  Thanks for the games.
     ├── Makefile                            Run `make` to rebuild this archive
     │
     └── README.md                           This file
+
 
 
 ## Maintainer
